@@ -31,7 +31,7 @@ console.log(hamburger.maker.restaurant.name);  // -> Hyur's II
 console.log(secondBurger.maker.restaurant.name); // -> Hyur's II
 
 // Quanti oggetti sono stati creati in memoria durante l'esecuzione di questo codice?
-// Sono stati creati 5 oggetti: hamburger, mker, restaurant, un altro restourant con lo Spread Operator di hamburger.maker.restaurant e un altro hamburger con lo spread di hamburger.
+// Sono stati creati 5 oggetti: hamburger, maker, restaurant, un altro restaurant con lo Spread Operator di hamburger.maker.restaurant e un altro hamburger con lo spread di hamburger.
 
 
 // Code Question 6 (Bonus)
